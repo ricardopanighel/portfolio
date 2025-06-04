@@ -1,6 +1,6 @@
 import { Section } from "lucide-react";
 import Image from "next/image";
-import myImage from "../../../public/avatar-ricardo.png";
+import myImage from "../../../public/foto-ricardo.png";
 
 export function About() {
   return (
